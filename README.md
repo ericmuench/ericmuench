@@ -17,6 +17,7 @@ Here you can find an overview of my Projects. In each category the projects are 
 
 ### :iphone: Mobile Applications 
 - [Magic Mussel](https://github.com/ericmuench/Magic_Mussel)
+- [LunchManager](https://github.com/ericmuench/LunchManager)
 - [Notes](https://github.com/ericmuench/Notes)
 ### :heavy_plus_sign: Other
 - [Kotlin Utils](https://github.com/ericmuench/KotlinUtils)
