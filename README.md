@@ -17,6 +17,7 @@ Here you can find an overview of my Projects.
 
 ### :iphone: Mobile Applications 
 
+### :heavy_plus_sign: Other
 <!--
 **ericmuench/ericmuench** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
