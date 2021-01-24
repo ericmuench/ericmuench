@@ -16,9 +16,10 @@ My Name is Eric Münch. Currently I am studying Mobile Computing at the [Univers
 Here you can find an overview of my Projects.
 
 ### :iphone: Mobile Applications 
-
+- [Magic Mussel](https://github.com/ericmuench/Magic_Mussel)
 ### :heavy_plus_sign: Other
-- Kotlin Utils: https://github.com/ericmuench/KotlinUtils
+- [Kotlin Utils](https://github.com/ericmuench/KotlinUtils)
+
 <!--
 **ericmuench/ericmuench** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
