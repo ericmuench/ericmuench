@@ -9,9 +9,10 @@ My Name is Eric Münch. Currently I am studying Mobile Computing at the [Univers
     - JavaScript
     - Dart
     - HTML
-    
-- :book: I am always excited to learn about new Languages, Libraries, APIs and Frameworks! :smile:
 - :star: I most like developing Mobile Applications for Android with Kotlin
+- :book: I am always excited to learn about new Languages, Libraries, APIs and Frameworks! :smile:
+
+##Projects
 
 
 <!--
