@@ -1,5 +1,8 @@
 ### Hi there 👋
-My Name is Eric Münch. Currently I am studying Mobile Computing at the [University of Applied Sciences in Hof](https://www.hof-university.de/)
+My Name is Eric Münch. Currently I am studying Mobile Computing at the [University of Applied Sciences in Hof](https://www.hof-university.de/). Here are some facts about me:
+- :calendar:
+
+
 <!--
 **ericmuench/ericmuench** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
