@@ -12,7 +12,7 @@ My Name is Eric Münch. Currently I am studying Mobile Computing at the [Univers
 - :star: I most like developing Mobile Applications for Android with Kotlin
 - :book: I am always excited to learn about new Languages, Libraries, APIs and Frameworks! :smile:
 
-## Projects
+## Own Projects
 Here you can find an overview of my Projects. In each category the projects are ordered by the date they were created. The newer a project is, the higher it is in the list.
 
 ### :iphone: Mobile Applications 
@@ -21,6 +21,11 @@ Here you can find an overview of my Projects. In each category the projects are 
 - [Notes](https://github.com/ericmuench/Notes)
 ### :heavy_plus_sign: Other
 - [Kotlin Utils](https://github.com/ericmuench/KotlinUtils)
+
+## Group Projects
+Here you can find an overview of Projects, i have worked on together with other Developers. In each category the projects are ordered by the date they were created. The newer a project is, the higher it is in the list.
+
+- :iphone: [Homium](https://github.com/MademDevs/Homium) by @MademDevs
 
 <!--
 **ericmuench/ericmuench** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
