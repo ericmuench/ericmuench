@@ -1,7 +1,7 @@
 ### Hi there 👋
 My Name is Eric Münch. Currently I am studying Mobile Computing at the [University of Applied Sciences in Hof](https://www.hof-university.de/). Here are some facts about me:
 - :calendar: Programming actively since 2018, when I started studying
-- :computer: Programming- and Markup-Languages, I tried so far: Java, Kotlin, Swift, C#, JavaScript, Dart, HTML
+- :computer: Programming- and Markup-Languages, I tried so far: Java, Kotlin, Swift, C#, JavaScript, Dart, HTML (But I'm always happy to learn new Lnguages and Frameworks :smile:)
 - :star: I most like developing Mobile Applications for Android with Kotlin
 
 
