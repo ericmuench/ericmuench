@@ -1,4 +1,4 @@
-## Hi there 👋
+# Hi there 👋
 My Name is Eric Münch. Currently I am studying Mobile Computing at the [University of Applied Sciences in Hof](https://www.hof-university.de/). Here are some facts about me:
 - :calendar: Programming actively since 2018, when I started studying
 - :computer: Programming- and Markup-Languages, I tried so far: 
@@ -12,8 +12,8 @@ My Name is Eric Münch. Currently I am studying Mobile Computing at the [Univers
 - :star: I most like developing Mobile Applications for Android with Kotlin
 - :book: I am always excited to learn about new Languages, Libraries, APIs and Frameworks! :smile:
 
-### Projects
-
+#### Projects
+Here you can find an overview of my Projects
 
 <!--
 **ericmuench/ericmuench** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
