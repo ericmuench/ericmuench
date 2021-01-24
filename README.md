@@ -13,10 +13,11 @@ My Name is Eric Münch. Currently I am studying Mobile Computing at the [Univers
 - :book: I am always excited to learn about new Languages, Libraries, APIs and Frameworks! :smile:
 
 ## Projects
-Here you can find an overview of my Projects.
+Here you can find an overview of my Projects. In each category the projects are ordered by the date they were created. The newer a project is, the higher it is in the list.
 
 ### :iphone: Mobile Applications 
 - [Magic Mussel](https://github.com/ericmuench/Magic_Mussel)
+- [Notes] (https://github.com/ericmuench/Notes)
 ### :heavy_plus_sign: Other
 - [Kotlin Utils](https://github.com/ericmuench/KotlinUtils)
 
