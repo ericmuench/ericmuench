@@ -25,7 +25,7 @@ Here you can find an overview of my Projects. In each category the projects are 
 ## Group Projects
 Here you can find an overview of Projects, i have worked on together with other Developers. In each category the projects are ordered by the date they were created. The newer a project is, the higher it is in the list.
 
-- :iphone: [Homium](https://github.com/MademDevs/Homium) by @MademDevs
+- :iphone: [Homium](https://github.com/MademDevs/Homium) by [@MademDevs](https://github.com/MademDevs)
 
 <!--
 **ericmuench/ericmuench** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
