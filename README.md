@@ -14,7 +14,7 @@ My Name is Eric Münch. Currently I am studying Mobile Computing at the [Univers
 
 ## Statistics
 [![](https://github-readme-stats.vercel.app/api?username=ericmuench&show_icons=true&hide_title=true&title_color=B39E74&icon_color=B39E74)](https://github.com/anuraghazra/github-readme-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ericmuench&title_color=B39E74&icon_color=B39E74)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ericmuench&title_color=B39E74&icon_color=B39E74&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 ## Personal Projects
 Here you can find an overview of my Projects. In each category the projects are ordered by the date they were created. The newer a project is, the higher it is in the list.
