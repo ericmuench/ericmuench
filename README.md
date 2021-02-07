@@ -23,6 +23,10 @@ Here you can find an overview of my Projects. In each category the projects are 
 - [Magic Mussel](https://github.com/ericmuench/Magic_Mussel)
 - [LunchManager](https://github.com/ericmuench/LunchManager)
 - [Notes](https://github.com/ericmuench/Notes)
+
+### :computer: Desktop Apps
+- [DJ-Sets](https://github.com/ericmuench/DJ-Sets)
+
 ### :heavy_plus_sign: Other
 - [Kotlin Utils](https://github.com/ericmuench/KotlinUtils)
 
