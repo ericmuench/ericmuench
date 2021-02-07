@@ -11,9 +11,12 @@ My Name is Eric Münch. Currently I am studying Mobile Computing at the [Univers
     - HTML
 - :star: I most like developing Mobile Applications for Android with Kotlin
 - :book: Always excited to learn about new Languages, Libraries, APIs and Frameworks! :smile:
-[![](https://github-readme-stats.vercel.app/api?username=ericmuench&show_icons=true&hide_title=true&theme=nightowl)](https://github.com/ericmuench)
 
-## Own Projects
+## Statistics
+[![](https://github-readme-stats.vercel.app/api?username=ericmuench&show_icons=false&hide_title=true)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ericmuench)](https://github.com/anuraghazra/github-readme-stats)
+
+## Personal Projects
 Here you can find an overview of my Projects. In each category the projects are ordered by the date they were created. The newer a project is, the higher it is in the list.
 
 ### :iphone: Mobile Applications 
