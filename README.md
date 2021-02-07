@@ -24,7 +24,7 @@ Here you can find an overview of my Projects. In each category the projects are 
 - [LunchManager](https://github.com/ericmuench/LunchManager)
 - [Notes](https://github.com/ericmuench/Notes)
 
-### :monitor: Desktop Apps
+### :desktop_computer: Desktop Apps
 - [DJ-Sets](https://github.com/ericmuench/DJ-Sets)
 
 ### :heavy_plus_sign: Other
