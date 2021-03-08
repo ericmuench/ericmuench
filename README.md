@@ -23,6 +23,7 @@ Here you can find an overview of my Projects. In each category the projects are 
 - [Magic Mussel](https://github.com/ericmuench/Magic_Mussel)
 - [LunchManager](https://github.com/ericmuench/LunchManager)
 - [Notes](https://github.com/ericmuench/Notes)
+- [AppsFactory Test-Task (LastFM-App)](https://github.com/ericmuench/AppsFactoryTestTask)
 
 ### :desktop_computer: Desktop Apps
 - [DJ-Sets](https://github.com/ericmuench/DJ-Sets)
