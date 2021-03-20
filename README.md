@@ -30,6 +30,7 @@ Here you can find an overview of my Projects. In each category the projects are 
 
 ### :heavy_plus_sign: Other
 - [Kotlin Utils](https://github.com/ericmuench/KotlinUtils)
+- [Startpage](https://github.com/ericmuench/Startpage)
 
 ## Group Projects
 Here you can find an overview of Projects, i have worked on together with other Developers. In each category the projects are ordered by the date they were created. The newer a project is, the higher it is in the list.
