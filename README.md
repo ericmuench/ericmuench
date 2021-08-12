@@ -6,7 +6,7 @@ My Name is Eric Münch. Currently I am studying Mobile Computing at the [Univers
     - Kotlin
     - Swift
     - C#
-    - JavaScript
+    - JavaScript (Vanilla, Vue, Svelte)
     - Dart
     - HTML
 - :star: I most like developing Mobile Applications for Android with Kotlin
