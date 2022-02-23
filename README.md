@@ -24,6 +24,7 @@ Here you can find an overview of my Projects. In each category the projects are 
 - [LunchManager](https://github.com/ericmuench/LunchManager)
 - [Notes](https://github.com/ericmuench/Notes)
 - [AppsFactory Test-Task (LastFM-App)](https://github.com/ericmuench/AppsFactoryTestTask)
+- [Simple-Dice-App (Jetpack Compose)](https://github.com/ericmuench/Simple-Dice-App)
 
 ### :desktop_computer: Desktop Apps
 - [DJ-Sets](https://github.com/ericmuench/DJ-Sets)
@@ -31,6 +32,7 @@ Here you can find an overview of my Projects. In each category the projects are 
 ### :heavy_plus_sign: Other
 - [Kotlin Utils](https://github.com/ericmuench/KotlinUtils)
 - [Startpage](https://github.com/ericmuench/Startpage)
+- [ThesisPacker](https://github.com/ericmuench/ThesisPacker)
 
 ## Group Projects
 Here you can find an overview of Projects, i have worked on together with other Developers. In each category the projects are ordered by the date they were created. The newer a project is, the higher it is in the list.
