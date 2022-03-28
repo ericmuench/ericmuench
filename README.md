@@ -32,6 +32,7 @@ Here you can find an overview of my Projects. In each category the projects are 
 ### :heavy_plus_sign: Other
 - [Kotlin Utils](https://github.com/ericmuench/KotlinUtils)
 - [Startpage](https://github.com/ericmuench/Startpage)
+- [DJSets-for-Web](https://github.com/ericmuench/DJSets-for-Web)
 - [ThesisPacker](https://github.com/ericmuench/ThesisPacker)
 
 ## Group Projects
