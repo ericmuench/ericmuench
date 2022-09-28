@@ -1,6 +1,6 @@
 # Hi there 👋
-My Name is Eric Münch. Currently I am studying Mobile Computing at the [University of Applied Sciences in Hof](https://www.hof-university.de/). Here are some facts about me:
-- :calendar: Programming actively since 2018, when I started studying
+My Name is Eric Münch. Here are some facts about me:
+- :calendar: Programming actively since 2018, when I started studying at the [University of Applied Sciences in Hof](https://www.hof-university.de/)
 - :computer: Programming- and Markup-Languages, I tried so far: 
     - Java 
     - Kotlin
@@ -17,7 +17,7 @@ My Name is Eric Münch. Currently I am studying Mobile Computing at the [Univers
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ericmuench&title_color=B39E74&icon_color=B39E74)](https://github.com/anuraghazra/github-readme-stats)
 
 ## Personal Projects
-Here you can find an overview of my Projects. In each category the projects are ordered by the date they were created. The newer a project is, the higher it is in the list.
+Here you can find an overview of my Projects. In each category the projects are ordered by the date they were created.
 
 ### :iphone: Mobile Applications 
 - [Magic Mussel](https://github.com/ericmuench/Magic_Mussel)
